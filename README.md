@@ -1,7 +1,9 @@
 # FileCloneSpy-Update
 
 
-✓ #Spy old tool edited and update done, ✓
+● ✓ #Spy old tool edited and update done, ✓ ●
+
+rm-rf FileCloneSpy-Update
 
 git clone https://github.com/Prekarshamaxx123/FileCloneSpy-Update
 
