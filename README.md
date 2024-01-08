@@ -14,14 +14,6 @@ Spy Old File Clone Script Update And Edited Done ✓
 </p>
 
 
-# ScreenShots
-
-![](![IMG-20240106-WA0110](https://github.com/Prekarshamaxx123/FileCloneSpy-Update/assets/92394796/23c74139-906c-4f5f-9db2-4ab9807f1dad)
-)
-
-
-
-
 # How to install
 * cd && rm -rf FileCloneSpy-Update
 * git clone https://github.com/Prekarshamaxx123/FileCloneSpy-Update
@@ -29,7 +21,7 @@ Spy Old File Clone Script Update And Edited Done ✓
 * python PRE_SPY.py
 
 
-## Features
+## Features & Screenshot
 - [x] File clone
 - [x] Lock account remove
 - [x] Free Access 
