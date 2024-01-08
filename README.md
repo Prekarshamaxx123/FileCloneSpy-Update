@@ -3,16 +3,16 @@
 
 ● ✓ #Spy old tool edited and update done, ✓ ●
 
-cd && rm -rf FileCloneSpy-Update
+* cd && rm -rf FileCloneSpy-Update
 
 
-git clone https://github.com/Prekarshamaxx123/FileCloneSpy-Update
+* git clone https://github.com/Prekarshamaxx123/FileCloneSpy-Update
 
 
-cd FileCloneSpy-Update
+* cd FileCloneSpy-Update
 
 
-python PRE_SPY.py
+* python PRE_SPY.py
 
 ...
 
