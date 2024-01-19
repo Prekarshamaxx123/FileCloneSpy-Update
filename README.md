@@ -14,12 +14,21 @@ Spy Old File Clone Script Update And Edited Done ✓
 </p>
 
 
-# How to install
-* cd && rm -rf FileCloneSpy-Update
-* git clone https://github.com/Prekarshamaxx123/FileCloneSpy-Update
-* cd FileCloneSpy-Update
-* python PRE_SPY.py
+ ### How to install
+```python
+install basic commands termux
 
+* cd && rm -rf FileCloneSpy-Update
+* git clone --depth=1 https://github.com/Prekarshamaxx123/FileCloneSpy-Update
+* cd FileCloneSpy-Update
+" python PRE_SPY.py
+
+```
+Result  
+>Generated Cookie : sb................
+
+<br>  
+<br>
 
 ## Features & Screenshot
 - [x] File clone
