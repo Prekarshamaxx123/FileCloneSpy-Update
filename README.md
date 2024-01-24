@@ -16,7 +16,15 @@ Spy Old File Clone Script Update And Edited Done ✓
 
  ### How to install
 ```python
-install basic commands termux
+pkg upgrade
+pkg install git
+pkg install python
+pkg install python2
+termux-setup-storage
+pip install bs4
+pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
+
+👇👇 install basic commands and run it 👇👇
 
 * cd && rm -rf FileCloneSpy-Update
 
