@@ -26,13 +26,13 @@ pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urlli
 
 👇👇 install basic commands and run it 👇👇
 
-* cd && rm -rf FileCloneSpy-Update
+- [x] cd && rm -rf FileCloneSpy-Update
 
-* git clone --depth=1 https://github.com/Prekarshamaxx123/FileCloneSpy-Update
+- [x] git clone --depth=1 https://github.com/Prekarshamaxx123/FileCloneSpy-Update
 
-* cd FileCloneSpy-Update
+- [x] cd FileCloneSpy-Update
 
-* python PRE_SPY.py
+- [x] python PRE_SPY.py
 
 ```
 
