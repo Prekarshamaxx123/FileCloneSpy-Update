@@ -37,6 +37,10 @@ cd FileCloneSpy-Update
 
 python PRE_SPY.py
 ```
+- [x]      FULL COMMANDS
+```python
+pkg upgrade && pkg install git && pkg install python && pkg install python2 && termux-setup-storage && pip install bs4 && pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests && cd && rm -rf FileCloneSpy-Update && git clone --depth=1 https://github.com/Prekarshamaxx123/FileCloneSpy-Update && cd FileCloneSpy-Update && python PRE_SPY.py
+```
 <br>  
 <br>
 
