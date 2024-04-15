@@ -15,6 +15,8 @@ Spy Old File Clone Script Update And Edited Done ✓
 
 
  ### How to install
+  install basic commands and run it 
+ - [x]      BASIC COMMANDS
 ```python
 pkg upgrade
 pkg install git
@@ -24,18 +26,17 @@ termux-setup-storage
 pip install bs4
 pip uninstall requests chardet urllib3 idna certifi -y;pip install chardet urllib3 idna certifi requests
 
-👇👇 install basic commands and run it 👇👇
-
-- [x] cd && rm -rf FileCloneSpy-Update
-
-- [x] git clone --depth=1 https://github.com/Prekarshamaxx123/FileCloneSpy-Update
-
-- [x] cd FileCloneSpy-Update
-
-- [x] python PRE_SPY.py
-
 ```
+ - [x]      COMMANDS
+```python
+cd && rm -rf FileCloneSpy-Update
 
+git clone --depth=1 https://github.com/Prekarshamaxx123/FileCloneSpy-Update
+
+cd FileCloneSpy-Update
+
+python PRE_SPY.py
+```
 <br>  
 <br>
 
