@@ -45,7 +45,7 @@ pkg upgrade && pkg install git && pkg install python && pkg install python2 && t
 <br>
 
 ## Features & Screenshot
-- [x] File clone
+- [x] File clone 
 - [x] Lock account remove
 - [x] Free Access 
 - [x] Cookie save
